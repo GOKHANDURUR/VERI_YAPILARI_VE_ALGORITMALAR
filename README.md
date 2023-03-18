@@ -36,3 +36,18 @@ Proje 2
 5.adım: 11-16-21        8-12-22
 6.adım: 8-11-12-16-21-22
 Big O Notation: O(nlogn)
+
+3.proje
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+1.adım root 7 dir.
+2.adım 7nin soluna 5
+3.adım 5’in soluna 1
+4.adım 7nin sağına 8
+5.adım 1 in sağına 3
+6.adım 5’in sağına 6
+7.adım 1in soluna 0
+8.adım 8 in sağına 9
+9.adım 3 ün sağına 4
+10.adım 3ün soluna
